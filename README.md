@@ -8,7 +8,7 @@ A free, unofficial practice app for the **Claude Certified Architect – Foundat
 
 ## What's in it
 
-- 179 original practice questions across the five exam domains, single-answer and multiple-response
+- 177 original practice questions across the five exam domains, single-answer and multiple-response
 - **Drill** by domain, task statement, scenario or question type, with an explanation for every option
 - **Mock exams** (15, 30 or 60 items) with a countdown, flagging and a review screen, weighted by domain
 - **Spaced review** on a Leitner schedule (1, 3, 7, then 14 days), with mastery after five correct in a row
